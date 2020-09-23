@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "121633398254",
+    "firebase_url": "https://rashays-order.firebaseio.com",
+    "project_id": "rashays-order",
+    "storage_bucket": "rashays-order.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121633398254:android:b8bf67c4b57b5315a982ff",
+        "android_client_info": {
+          "package_name": "order.rashays.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121633398254-8knpr5kt1pu3bvoi3ds99it5eic93avr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjEMQS2e3HrTHIObQZjme-GiIfw5G9GFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121633398254-8knpr5kt1pu3bvoi3ds99it5eic93avr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
